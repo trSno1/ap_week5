@@ -1,3 +1,21 @@
+#recatoring means to restructure cod3e without chanfinf its extermna; behavior this helps improve readibility and maintainability.
+#importing the functions
+
+from problem_set1 import problem
+from problem_set3 import problem_set3
+from problem_set4 import problem_set4
+
+from advanced_slicing import advanced_slice
+
+
+
+
+
+#call the functions
+problem()
+
+# an absrat representatation
+
 # # Problem Set 1: Indexing and Slicing Strings
 # # Basic Indexing:
 # # Given the string magic = 'abracadabra',
@@ -9,6 +27,8 @@ fifth_char = magic[4]
 second_to_last_char = magic[-2]
 first_occurrence_c = magic.find('c')
 print (first_occurrence_c) 
+
+
 # # Advanced Slicing:
 # # Given the string alphabet = 'abcdefghijklmnopqrstuvwxyz',
 # # a. Extract the letters 'hij'.
