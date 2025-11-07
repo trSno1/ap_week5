@@ -9,7 +9,7 @@ from advanced_slicing import advanced_slice
 
 
 
-
+print("hi")
 
 #call the functions
 problem()
